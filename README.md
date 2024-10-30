@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Court!
 
-Welcome to my GitHub! I'm a beginner web designer and developer passionate about learning new technologies and exploring the world of trading and finance. Here’s a bit more about me:
+Welcome to my GitHub! I'm a web designer and developer passionate about learning new technologies and exploring the world of trading and finance. Here’s a bit more about me:
 
 ---
 
 ## 🔹 About Me
-- 🌱 Currently learning **web design** and **WordPress customization**.
+- 🌱 Currently working in **web design** and **WordPress customization**.
 - 💼 I'm active in the **financial industry** and working on improving my **retirement portfolio**.
 - 🎨 I enjoy experimenting with **modern styles** in web design, particularly with **blue and grey color schemes**.
 - 📚 On a journey to re-master math from **algebra to calculus**.
