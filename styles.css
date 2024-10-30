@@ -1,1 +1,30 @@
+/* Basic styling for the page */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f8ff; /* Light blue background */
+  color: #333333; /* Dark grey text */
+  margin: 0;
+  padding: 20px;
+  text-align: center;
+}
+
+h1 {
+  color: #005f99; /* Dark blue heading */
+}
+
+p {
+  font-size: 1.1em;
+  line-height: 1.6;
+}
+
+/* Styling links */
+a {
+  color: #005f99;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #004466;
+  text-decoration: underline;
+}
 
